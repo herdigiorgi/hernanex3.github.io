@@ -9,8 +9,7 @@ google_verification: null
 
 
 # File management
-include: [".htaccess"]
-exclude: ["README.md", "LICENSE"]
+exclude: ["README.md", "LICENSE", "KEYS", "Makefile", "deploy.sh"]
 
 # Sass
 sass:
