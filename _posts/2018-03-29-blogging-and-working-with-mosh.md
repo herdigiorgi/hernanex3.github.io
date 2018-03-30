@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Blogging and Working with MOSH protocol"
-tags: blogging mosh ssh conmutation
+tags: learning
 ---
 
 The idea is simple, trying to be productive each time I can, at

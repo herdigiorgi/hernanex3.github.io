@@ -26,3 +26,12 @@ sass:
 # Markdown
 highlighter: rouge
 markdown: kramdown
+
+#tags
+tags:
+- page
+- blogging
+- social
+- mosh
+- ssh
+- conmutation
