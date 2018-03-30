@@ -9,7 +9,14 @@ google_verification: null
 
 
 # File management
-exclude: ["README.md", "LICENSE", "KEYS", "Makefile", "deploy.sh"]
+exclude: ["README.md",
+          "LICENSE",
+          "KEYS",
+          "Makefile",
+          "deploy.sh",
+          "SECRETS",
+          "Gemfile",
+          "Gemfile.lock"]
 
 # Sass
 sass:
