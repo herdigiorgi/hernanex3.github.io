@@ -1,10 +1,10 @@
 permalink: /:year:month:day/:title
 url: #Your url here
-baseurl: /project
+baseurl:
 
 # variables
-name: Your Site Name
-description: Your description here
+name: HERNANEX3
+description: Coding for fun and profit
 google_verification: null
 
 
@@ -18,8 +18,5 @@ sass:
   sass_dir: _sass
 
 # Markdown
+highlighter: rouge
 markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter_opts:
-    disable : true
